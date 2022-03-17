@@ -2,4 +2,4 @@
 <img src="https://avatars.githubusercontent.com/u/97960592?s=200&v=4" height="200">
 </p>
 
-# WhaleOps
+<p align="center">WhaleOps</p>
