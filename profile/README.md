@@ -12,8 +12,6 @@ We are dedicated to building the next-generation cloud-native DataOps platform t
 
 ---
 
-### links
-
 <div align="center">
   <a href="https://github.com/apache/dolphinscheduler">Apache DolphinScheduler</a> —
   <a href="https://github.com/apache/incubator-seatunnel">Apache SeaTunnel (Incubating)</a>
