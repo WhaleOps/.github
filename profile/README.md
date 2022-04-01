@@ -4,12 +4,15 @@
 
 <h1 align="center">WhaleOps</h1>
 
-<div align="center" width="100%">
+### introduce
   
-  ### WhaleOps is organized by the core team of the Apache DolphinScheduler and Apache SeaTunnel (Incubating) open source project and data experts from all over the world. 
+WhaleOps is organized by the core team of the Apache DolphinScheduler and Apache SeaTunnel (Incubating) open source project and data experts from all over the world. 
   
-  ### We are dedicated to building the next-generation cloud-native DataOps platform to help enterprises process, schedule and manage massive data governance intelligently in the era of big data and cloud.
-</div>
+We are dedicated to building the next-generation cloud-native DataOps platform to help enterprises process, schedule and manage massive data governance intelligently in the era of big data and cloud.
+
+---
+
+### links
 
 <div align="center">
   <a href="https://github.com/apache/dolphinscheduler">Apache DolphinScheduler</a> —
