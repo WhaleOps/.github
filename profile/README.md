@@ -4,6 +4,8 @@
 
 <h1 align="center">WhaleOps</h1>
 
+---
+
 ### introduce
   
 WhaleOps is organized by the core team of the Apache DolphinScheduler and Apache SeaTunnel (Incubating) open source project and data experts from all over the world. 
